@@ -80,8 +80,22 @@ div#login-right::before {
 
 
   <main id="main" class=" bg-dark">
+	
   		<div id="login-left">
-			<h1>Logeate para que puedas acceder a crear temas y comentar!</h1>
+			<center><h1>DebateApp</h1>
+			<br>
+				<h2>Logeate para que puedas acceder a crear temas y comentar!</h2>
+				<br>
+			<h2>Nuestro foro funciona mediante elecciones de categorías para la creación de diversos temas relacionados con estas.</h2>
+			<br>
+			<h3>Esperamos que puedas discutir sobre temas como: <br>
+				- Ciencia de datos (IA / ML)<br>- Cloud Computing vs On Premise<br> - Progressive Web Apps</h3>
+		</center>
+			<br>
+			
+			
+			
+			
   		</div>
 
   		<div id="login-right">
